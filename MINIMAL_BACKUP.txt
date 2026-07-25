@@ -1,0 +1,2 @@
+当前最简固件源码备份目录:
+/home/kbdancer/Radio/LILYGO_POCSAG/SX1276_Receive_LBJ_minimal_20260724
